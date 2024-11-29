@@ -1,0 +1,7 @@
+chrome-linux64/*
+# Ignorar arquivos grandes específicos
+chrome-linux64.zip
+chrome-linux64/chrome
+# Ignorar arquivos grandes específicos
+chrome-linux64.zip
+chrome-linux64/*
